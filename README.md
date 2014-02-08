@@ -1,4 +1,4 @@
-# fluent-plugin-dashing
+# fluent-plugin-dashing, a plugin for [Fluentd](http://fluentd.org)
 
 ## DashingOutput
 
